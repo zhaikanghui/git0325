@@ -3,6 +3,6 @@ public class Test {
         System.out.println("aaaaaaa");
         System.out.println("bbbbb");
         System.out.println("hot_fix");
-        System.out.println("fix");
+        System.out.println("master");
     }
 }
